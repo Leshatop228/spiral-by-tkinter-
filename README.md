@@ -10,9 +10,8 @@ canvas = tk.canvas(window, width = 600 , height = 600) # размер холст
 after - метод  используется для анимации window.after(ms,func): ms - через какое количество миллисекунд будет запущена функция переданная в метод
 
 
+![ezgif-665cf458cecb0d](https://github.com/user-attachments/assets/e923db6a-fa31-43f2-b594-12824fbcd88e)
 
-<img width="311" height="238" alt="image" src="https://github.com/user-attachments/assets/3c7597f1-e00c-48a1-9a07-68bd80bcc963" />
-<img width="379" height="317" alt="image" src="https://github.com/user-attachments/assets/1f51e6c4-5e3c-45ae-b20b-41560223d8d4" />
 
 
 
