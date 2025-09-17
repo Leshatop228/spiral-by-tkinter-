@@ -8,8 +8,13 @@ canvas = tk.canvas(window, width = 600 , height = 600) # размер холст
 
 
 after - метод  используется для анимации window.after(ms,func): ms - через какое количество миллисекунд будет запущена функция переданная в метод
+
+
+
 <img width="311" height="238" alt="image" src="https://github.com/user-attachments/assets/3c7597f1-e00c-48a1-9a07-68bd80bcc963" />
 <img width="379" height="317" alt="image" src="https://github.com/user-attachments/assets/1f51e6c4-5e3c-45ae-b20b-41560223d8d4" />
+
+
 
 
 mainloop  - метод запускает действия которые происходят, с помощью его видим окошко tkinter
